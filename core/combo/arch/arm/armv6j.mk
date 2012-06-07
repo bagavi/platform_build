@@ -1,4 +1,4 @@
-onfiguration for Linux on ARM.
+# configuration for Linux on ARM.
 # Generating binaries for the ARMv6J architecture and higher
 #
 ARCH_ARM_HAVE_THUMB_SUPPORT     := true
