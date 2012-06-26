@@ -93,6 +93,7 @@ GRANDFATHERED_USER_MODULES += \
 	com.android.phone.common \
 	com.android.vcard \
 	commons-compress-1.0 \
+	copybit.msm7k \
 	copybit.qsd8k \
 	copybit.s5pc110 \
 	coverage \
@@ -154,6 +155,7 @@ GRANDFATHERED_USER_MODULES += \
 	genext2fs \
 	gps.mahimahi \
 	gralloc.default \
+	gralloc.msm7k \
 	gralloc.qsd8k \
 	groovy-all-1.7.0 \
 	grxmlcompile \
@@ -396,6 +398,7 @@ GRANDFATHERED_USER_MODULES += \
 	libxslt \
 	libzipfile \
 	lights.kraken \
+	lights.msm7k \
 	lights.qsd8k \
 	line_endings \
 	linker \
@@ -505,6 +508,7 @@ GRANDFATHERED_USER_MODULES += \
 	test-progress-new \
 	test_swiarb \
 	test_zipfile \
+	tiwlan.ini \
 	toolbox \
 	traceview \
 	tune2fs \
@@ -513,6 +517,7 @@ GRANDFATHERED_USER_MODULES += \
 	vdc \
 	vm-tests \
 	vold \
+	wlan_loader \
 	wdsclient \
 	wpa_supplicant \
 	yuv420sp2rgb \
